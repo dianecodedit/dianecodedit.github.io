@@ -1,6 +1,6 @@
 let buttonContent = document.querySelectorAll(".buttons");
 let output = document.getElementById("output");
-let numbers = "";
+let numbers ="";
 
 
 
